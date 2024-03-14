@@ -1,0 +1,24 @@
+body {background: #A0BCAC;}
+.co {font-size: 25px;}
+.hello {position: absolute;
+  top: 95px;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.header {
+  top: 10px;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 0;
+  font-style: normal;
+}
+h10 {font-size: 10px;}
+
+.begin {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
